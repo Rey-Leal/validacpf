@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidaCPF", "ValidaCPF.csproj", "{24308F25-CB17-47D2-95A9-44A1E652979E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24308F25-CB17-47D2-95A9-44A1E652979E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24308F25-CB17-47D2-95A9-44A1E652979E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24308F25-CB17-47D2-95A9-44A1E652979E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24308F25-CB17-47D2-95A9-44A1E652979E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
